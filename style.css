@@ -1,0 +1,44 @@
+#back1
+{
+	background-color: lightblue;
+    color: black;
+    font-family: Poor Richard;
+}
+#back2
+{
+	background-color: lightblue;
+    color: black;
+    font-family: Lucida Console;
+}
+#back3
+{
+	background-color: black;
+}
+#head1
+{
+	font-style: italic;
+	font-weight: bold;
+}
+p
+{
+	font-weight: bold;
+	font-family: Candara;
+}
+#li1
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+#para2
+{
+	font-weight: bold;
+}
+#head2
+{
+font-family: Rockwell Extra Bold;
+font-size: 25px;
+}
+#back4
+{
+	background-color: lightblue;
+}
